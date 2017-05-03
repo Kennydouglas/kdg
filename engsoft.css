@@ -10,7 +10,7 @@ body{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5dd37c', endColorstr='#ffffff',GradientType=0 ); / IE6-9 * */
 	background-color:#4fd8e8;
     background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
-
+	text-align: center;
 }
 
 #button{
